@@ -48,6 +48,7 @@ Based on our analysis, the month of May is the most successful month for launchi
 
 Based on our analysis, theater/play specific Kickstarter campaigns have found the most success with pledge goals below $1000. In the chart below we see 76% of campaigns with funding goals below $1000 were successful. This is followed closely by campaigns ranging from $1000 to $4999, where 73% of theatre/play campaigns found success. Unsuccessful campaigns occurred at each goal range.  
 
+![Outcomes_vs_Goals png](https://user-images.githubusercontent.com/80069183/111054088-3310cb00-842f-11eb-8b1b-189174ebbad1.png)
 
 ### Challenges and Difficulties Encountered
 
