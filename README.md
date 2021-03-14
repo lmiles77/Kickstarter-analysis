@@ -56,9 +56,9 @@ I found it a somewhat difficult to start writing formulas in the Outcomes Based 
 
 Two conclusions you can draw about the Outcomes based on Launch Date are that the time of year a campaign is launched has a tremendous impact on how successful the campaign will be. Also, the latter months of the year, October, November, and December should be avoided if possible as we see a decrease in the number of successful campaigns during this time. 
 
-The Outcomes based on Goals data allowed me to see that the most successful campaigns have smaller goals. I was also able to see successful campaigns at some of the larger goal ranges, however I wonder if they were campaigns for more established organization as opposed to more grassroots efforts 
+The Outcomes based on Goals data allowed me to see that the most successful campaigns have smaller goals. I was also able to see successful campaigns at some of the larger goal ranges, however I wonder if they were campaigns for more established organization as opposed to more grassroots efforts. 
 
-
+![Theater_Outcomes_vs_Launch png](https://user-images.githubusercontent.com/80069183/111054022-ab2ac100-842e-11eb-8d08-108e28891ed6.png)
 
 
 
