@@ -42,6 +42,7 @@ It would also be informative to separate established theater companies and like 
 
 Based on our analysis, the month of May is the most successful month for launching theater/play specific Kickstarter campaigns. In the chart below we see in the month of May, there were 111 successful theatre/play campaigns launched. May is then followed by June and July which had 100 and 87 successful campaigns, respectively. Months that fall towards the end of year should considered less as fewer campaigns see success during this time. Time of year alone should not be the single factor when determining when to launch a campaign. Other factors should also be considered. 
  
+![Theater_Outcomes_vs_Launch png](https://user-images.githubusercontent.com/80069183/111054022-ab2ac100-842e-11eb-8d08-108e28891ed6.png)
 
 ### Analysis of Outcomes Based on Goals
 
@@ -58,7 +59,7 @@ Two conclusions you can draw about the Outcomes based on Launch Date are that th
 
 The Outcomes based on Goals data allowed me to see that the most successful campaigns have smaller goals. I was also able to see successful campaigns at some of the larger goal ranges, however I wonder if they were campaigns for more established organization as opposed to more grassroots efforts. 
 
-![Theater_Outcomes_vs_Launch png](https://user-images.githubusercontent.com/80069183/111054022-ab2ac100-842e-11eb-8d08-108e28891ed6.png)
+
 
 
 
